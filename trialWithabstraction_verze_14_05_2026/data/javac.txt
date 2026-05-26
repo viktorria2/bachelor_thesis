@@ -1,4 +1,0 @@
-C:\Users\figbo\Documents\Max 9\Projects\trialWithabstraction\code>javac -source 1.8 -target 1.8 -classpath "C:\Program Files\Cycling '74\Max 9\resources\packages\max-mxj\java-classes\lib\max.jar" MidiParser.java
-
-documentace k javax.sound.midi
-https://docs.oracle.com/javase/8/docs/api/javax/sound/midi/package-summary.html#:~:text=Package%20javax.sound.midi%20Description.%20Provides%20interfaces%20and%20classes,of%20MIDI%20(Musical%20Instrument%20Digital%20Interface)%20data.
